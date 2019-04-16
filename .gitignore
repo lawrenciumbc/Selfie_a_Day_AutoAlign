@@ -1,3 +1,11 @@
+**/.DS_Store
+.DS_Store
+
+/imgs/
+/test images/
+/TEST2_selfieimgs18bkp/
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
