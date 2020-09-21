@@ -1,0 +1,1 @@
+# These modules help strip out duplicates and select the best photo to use
